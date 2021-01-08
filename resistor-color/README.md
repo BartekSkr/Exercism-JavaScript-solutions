@@ -50,8 +50,3 @@ Once you get a test passing, you can enable the next one by changing `xtest` to
 ## Source
 
 Maud de Vries, Erik Schierboom [https://github.com/exercism/problem-specifications/issues/1458](https://github.com/exercism/problem-specifications/issues/1458)
-
-## Submitting Incomplete Solutions
-
-It's possible to submit an incomplete solution so you can see how others have
-completed the exercise.
